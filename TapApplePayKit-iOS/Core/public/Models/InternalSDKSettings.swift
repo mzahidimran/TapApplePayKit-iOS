@@ -6,6 +6,9 @@
 //
 
 /// Internal SDK settings model
+///
+import Foundation
+
 internal struct InternalSDKSettings: Decodable {
     
     // MARK: - Internal -

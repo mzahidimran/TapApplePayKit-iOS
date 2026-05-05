@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Tap-Payments/CommonDataModelsKit-iOS.git",
       "state" : {
-        "revision" : "466f8ce6d0322e0f911586591b1c6371c8d362a3",
-        "version" : "1.0.149"
+        "branch" : "master",
+        "revision" : "9a6aca566367a9aee42d3fa9b1b2eb2f21883814"
       }
     },
     {
@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Tap-Payments/TapAdditionsKitV2.git",
       "state" : {
-        "revision" : "91dbd200ff5c4a51770e945172eb925f8cdf5c56",
-        "version" : "0.0.20"
+        "revision" : "9d2ead785d9848dbd3d512bf7c8cfd6b2d988c66",
+        "version" : "0.0.21"
       }
     },
     {
@@ -32,8 +32,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Tap-Payments/TapApplicationV2.git",
       "state" : {
-        "revision" : "8e64b92aaff74aff44f82d64a3d041d6471af5c3",
-        "version" : "0.0.4"
+        "branch" : "master",
+        "revision" : "4ad94da85bac0a9745b14e8f8c137f6c4882e8fe"
       }
     },
     {
@@ -59,8 +59,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Tap-Payments/TapNetworkKit-iOS.git",
       "state" : {
-        "revision" : "5f59f5719bc37a3b9fe1c80275954e79957fc6f2",
-        "version" : "1.0.15"
+        "branch" : "master",
+        "revision" : "34b9ec60515340e039644a5befe4d0d1c732b1ea"
       }
     },
     {

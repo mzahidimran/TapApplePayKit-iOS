@@ -14,9 +14,9 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(url: "https://github.com/Tap-Payments/CommonDataModelsKit-iOS.git", from: "1.0.149"),
-        .package(url: "https://github.com/Tap-Payments/TapNetworkKit-iOS.git", from: "1.0.14"),
-        .package(url: "https://github.com/Tap-Payments/TapApplicationV2.git", from: "0.0.3")
+        .package(url: "https://github.com/Tap-Payments/CommonDataModelsKit-iOS.git", branch: "master"),
+        .package(url: "https://github.com/Tap-Payments/TapNetworkKit-iOS.git", branch: "master"),
+        .package(url: "https://github.com/Tap-Payments/TapApplicationV2.git", branch: "master")
     ],
     targets: [
         .target(
